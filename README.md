@@ -26,16 +26,3 @@ The implementation is organized into several methods:
 ## Documentation
 
 The code is documented using Javadoc-style comments, providing explanations for classes, methods, and their functionality. The HTML documentation is generated using tools available in Eclipse and can be found in the `doc` directory of this repository.
-
-## Academic Integrity
-
-Please note that sharing code is strictly prohibited. While discussions on design and implementation strategies are allowed, any similarities in code implementation may result in academic penalties. It's important to maintain integrity and seek help if needed.
-
-## Submission
-
-The project is submitted through GitHub Classroom by the specified deadline. Be sure to adhere to the guidelines and submit your code according to the instructions provided by the course.
-
-For further information, refer to the original project specifications provided by the course instructor.
-
----
-*This project was completed as part of the CIIC 4020 / ICOM 4035 Data Structures course at the University of Puerto Rico, Mayagüez Campus, during the Spring semester of 2022-2023.*
